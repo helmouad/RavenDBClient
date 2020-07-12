@@ -1,0 +1,4 @@
+**/packages
+**/RavenDBClient/bin
+**/RavenDBClient/obj
+**/.vs
